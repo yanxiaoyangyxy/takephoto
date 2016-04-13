@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">takephoto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- 设置个人头像 -->
+    <string name="dialog_cancel">取消</string>
+    <string name="take_photo">拍照</string>
+    <string name="choice_album">选择相册</string>
+
+</resources>
